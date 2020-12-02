@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522407512566",
+    "firebase_url": "https://vietagri.firebaseio.com",
+    "project_id": "vietagri",
+    "storage_bucket": "vietagri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522407512566:android:8c1595fe5afa307eb9dfd7",
+        "android_client_info": {
+          "package_name": "com.vn.vietagri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522407512566-5bgfm54qvrlln5k3tb5ft57haf6d2852.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vn.vietagri",
+            "certificate_hash": "24186a5ae8e2c4381e22472f1b02c059d34dfdf3"
+          }
+        },
+        {
+          "client_id": "522407512566-aeoeem5gojbr5k2sf7jutfbdhi5ena7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwyMcMGWgIajzYV-5dmRF3lRWGaGQ0vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522407512566-aeoeem5gojbr5k2sf7jutfbdhi5ena7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
